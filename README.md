@@ -1,11 +1,12 @@
 # SchoolRPG
 A text-based RPG coded in Java for the MYP - ICS2O8 Course
 
-*PROJECT TITLE: 			        Wren - A Star Wars Fan Story
-*PURPOSE OF PROJECT:		      The RPG submission for ICS 2O8 at Turner Fenton Secondary School, 10th Grade, MYP/IB
-*VERSION or DATE:		        Date of Submission - April 12th, 2019
+*PROJECT TITLE: 		Wren - A Star Wars Fan Story
+*PURPOSE OF PROJECT:		The RPG submission for ICS 2O8 at Turner Fenton Secondary School, 10th Grade, MYP/IB
+*VERSION or DATE:		Date of Submission - April 12th, 2019
 *HOW TO START THIS PROJECT:	Run the "Wren.jar" application.
-*AUTHOR:				              Timurul Hoque Kazi, at your service.
+*AUTHOR:			Timurul Hoque Kazi, at your service.
+*PLAYTESTER LINK:		https://forms.gle/F1TNNZy7ZxtActQi6
 
 NOTES:
 
