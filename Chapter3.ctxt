@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Chapter3
+comment0.text=\r\n\ Chapter\ 3\ -\ the\ bridge\ between\ getting\ inside\ the\ compound\ and\ reaching\ the\ datapad.\r\n\r\n\ @author\ (Timurul\ H.\ Kazi)\r\n\ @version\ (April\ 10th,\ 2019)\r\n
+comment1.params=beta\ fail
+comment1.target=int\ chapt3(int,\ int)
+comment2.params=fail
+comment2.target=int\ guise(int)
+comment3.params=fail
+comment3.target=int\ sneak(int)
+comment4.params=round\ notice\ stat
+comment4.target=int\ sneakRoll(java.lang.String,\ java.lang.String,\ int)
+numComments=5

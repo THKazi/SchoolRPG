@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Create\ methods\ that\ utilise\ the\ Thread.sleep()\ function,\ so\ it\ is\ easier\ to\ deploy\ repeatedly\ -\ because\ a\ normal\ block\ of\ text\ is\ boring.\r\n\r\n\ @author\ (Timurul\ H.\ Kazi)\r\n\ @version\ (April\ 8th,\ 2019)\r\n
+comment1.params=a
+comment1.target=void\ speak(java.lang.String)
+comment2.params=a\ i
+comment2.target=void\ var(java.lang.String,\ int)
+comment3.params=a\ i
+comment3.target=void\ printVar(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=
+comment5.target=void\ pause()
+comment6.params=a
+comment6.target=void\ run(java.lang.String)
+numComments=7

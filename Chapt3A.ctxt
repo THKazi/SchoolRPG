@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Chapt3A
+comment0.text=\r\n\ Part\ 2\ of\ Chapter\ 3\ -\ The\ datapad\ hacking\ game.\r\n\r\n\ @author\ (Timurul\ H.\ Kazi)\r\n\ @version\ (April\ 11th,\ 2019)\r\n
+comment1.params=fail
+comment1.target=int\ datapad(int)
+comment2.params=fail
+comment2.target=int\ padHack(int)
+comment3.params=a
+comment3.target=void\ divert(int)
+numComments=4
