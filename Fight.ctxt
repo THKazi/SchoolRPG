@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Fight
-comment0.text=\r\n\ The\ primary\ combat\ module\ of\ Wren.\r\n\r\n\ @author\ (Timurul\ H.\ Kazi)\r\n\ @version\ (April\ 11th,\ 2019)\r\n
-comment1.params=fighters\ advantage
-comment1.target=boolean\ combat(int,\ int)
-comment2.params=
-comment2.target=boolean\ bulletTime()
-numComments=3
